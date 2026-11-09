@@ -2,7 +2,7 @@
 
 A point-of-sale interface for a Filipino neighborhood store, built with HTML and CSS only.
 
-**Live Sites:**  https://noreentolentino.github.io/sari-sari-store-pos/ 
+**Live Site:**  https://noreentolentino.github.io/sari-sari-store-pos/ 
 ## Features
 
 - Product grid with prices in pesos, stock levels, and low-stock markers
